@@ -13,5 +13,5 @@ This Repository is about solutions of the problems programming in Codeforces and
 
 ![Capture d’écran 2022-09-06 155700](https://user-images.githubusercontent.com/72256594/188979681-7170565a-3410-4dba-83dc-6ecb8964ee32.png)
 
-### This Repository will update everyday 
+### This Repository will update everyweek
 
